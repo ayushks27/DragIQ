@@ -7,6 +7,7 @@ export default defineConfig({
   optimizeDeps: {
     esbuildOptions: {
       plugins: [fixReactVirtualized],
+      base: process.env.VITE_BASE_PATH || "/DragIQ",
     },
   },
 })

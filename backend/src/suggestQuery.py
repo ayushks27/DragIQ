@@ -1,7 +1,7 @@
 import os
 
-import numpy as np
-import pandas as pd
+import numpy as np # type: ignore
+import pandas as pd # type: ignore
 
 
 def read_csv_with_dynamic_separator(filename):
