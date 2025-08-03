@@ -1,4 +1,4 @@
-# Data Flow 
+# DragIQ
 <img src="gitData/Data%20Flow%20logo.png" alt="Data Flow Logo" width="170" height="170">
 
 ## Overview
