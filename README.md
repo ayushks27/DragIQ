@@ -2,7 +2,7 @@
 <img src="gitData/Data%20Flow%20logo.png" alt="Data Flow Logo" width="170" height="170">
 
 ## Overview
-DataFlow Notebook is a dynamic, code-free platform designed to streamline data manipulation and analysis for non-technical users. 
+DragIQ Notebook is a dynamic, code-free platform designed to streamline data manipulation and analysis for non-technical users. 
 
 [Overview Video](https://www.youtube.com/watch?v=k6jkgq2yCus&ab_channel=MSstudioHD)
 
